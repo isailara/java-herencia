@@ -1,8 +1,8 @@
 package uaslp.objetos.parcial2;
 
 public class Persona {
-    private String nombre;
-    private int edad;
+    protected String nombre;
+    protected int edad;
 
     public void mostrar(){
     }
